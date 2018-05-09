@@ -1,0 +1,10 @@
+#backdrop
+{
+    background-image: none !important;
+    margin-top: 0 !important;
+}
+
+.backdrop-fade
+{
+    padding-top: 0 !important;
+}
